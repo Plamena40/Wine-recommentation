@@ -1,0 +1,10 @@
+name: wine_recommentation
+title:
+username: plamena
+account: plamena
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13361317
+bundleId: 9374330
+url: https://plamena.shinyapps.io/wine_recommentation/
+version: 1
